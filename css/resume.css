@@ -131,7 +131,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #004d00 !important;
+    background: linear-gradient(to bottom, #004d00 0%, #006600 100%) !important;
 }
 
 .text-primary {
